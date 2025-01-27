@@ -69,14 +69,6 @@ I'm a **MERN Stack Developer** with expertise in building modern web and mobile 
 
 ---
 
-### 🌟 Featured Projects
-
-- **[Project 1](https://github.com/Dinujaya69/project1)** - A Next.js e-commerce platform with a modern UI.
-- **[Project 2](https://github.com/Dinujaya69/project2)** - A Tauri-based desktop app for task management.
-- **[Project 3](https://github.com/Dinujaya69/project3)** - A MERN stack social media application.
-
----
-
 ### 🎨 Animation & Graphics
 
 <p align="center">
@@ -88,12 +80,10 @@ I'm a **MERN Stack Developer** with expertise in building modern web and mobile 
 ### 📫 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kavindu-dinujaya">
+  <a href="www.linkedin.com/in/kavindu-dinujaya-weerasinghe-552388215">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/KavinduDinu">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
+ 
   <a href="https://github.com/Dinujaya69">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
