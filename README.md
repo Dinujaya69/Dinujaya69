@@ -1,89 +1,72 @@
-# Hi there, I'm Kavindu Dinujaya 👋
-
-### MERN Stack Developer | Next.js | Tauri | Sri Lanka 🇱🇰
-
----
-
-### 🚀 About Me
-
-I'm a passionate **MERN Stack Developer** from **Sri Lanka** with expertise in building modern web applications. I love working with **Next.js** for server-side rendering and static site generation, and **Tauri** for building lightweight desktop applications. I enjoy creating seamless user experiences and solving complex problems through code.
-
----
-
-### 🛠️ Tech Stack
-
-#### Frontend:
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-#### Backend:
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-#### Desktop Development:
-![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black)
-
-#### Tools:
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=KavinduDinujaya&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### 📊 GitHub Stats
-
-![Kavindu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KavinduDinujaya&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KavinduDinujaya&layout=compact&theme=radical)
-
----
-
-### 🌟 Featured Projects
-
-- **[Project 1](https://github.com/KavinduDinujaya/project1)** - A Next.js e-commerce platform with a modern UI.
-- **[Project 2](https://github.com/KavinduDinujaya/project2)** - A Tauri-based desktop app for task management.
-- **[Project 3](https://github.com/KavinduDinujaya/project3)** - A MERN stack social media application.
-
----
-
-### 🎨 Animation & Graphics
-
-Here’s a fun animation for you:
-
-```html
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Animation" width="400">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I'm+Kavindu+Dinujaya;MERN+Stack+Developer;From+Sri+Lanka&center=true&width=380&height=45">
 </div>
-🏅 Achievements & Badges
-Certifications:
-AWS Certified
-Google Cloud Certified
 
-Hackathons:
-Hackathon Winner
-Hackathon Participant
+# Hi there! 👋 I'm Kavindu Dinujaya
 
-Open Source:
-Open Source Contributor
-GitHub Stars
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kavindudinujaya&label=Profile%20views&color=0e75b6&style=flat" alt="kavindudinujaya" />
+</p>
 
-📫 Let's Connect!
-LinkedIn
-Twitter
-GitHub
-Portfolio
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=kavindudinujaya&theme=darkhub&no-frame=true&row=1&column=7" alt="kavindudinujaya" />
+  </a>
+</p>
 
-💬 Fun Fact
-"I believe in the power of code to change the world, one line at a time."
+## 🚀 About Me
 
-⭐️ From Kavindu Dinujaya
+I'm a passionate MERN stack developer from Sri Lanka, with expertise in Next.js and Tauri. I love building robust and scalable web applications that make a difference.
+
+## 🛠️ My Tech Stack
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kavindudinujaya&show_icons=true&theme=radical" alt="kavindudinujaya" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavindudinujaya&theme=radical" alt="kavindudinujaya" />
+</p>
+
+## 🌟 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/kavindudinujaya/awesome-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kavindudinujaya&repo=awesome-project&theme=radical" alt="Awesome Project" />
+  </a>
+  <a href="https://github.com/kavindudinujaya/cool-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kavindudinujaya&repo=cool-app&theme=radical" alt="Cool App" />
+  </a>
+</p>
+
+## 🎨 My Contributions
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=kavindudinujaya&theme=react-dark" alt="Contribution Graph" />
+</p>
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/kavindudinujaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavindudinujaya" height="30" width="40" /></a>
+  <a href="https://twitter.com/kavindudinujaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kavindudinujaya" height="30" width="40" /></a>
+</p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting!;Let's+build+something+amazing+together!&center=true&width=380&height=45">
+</div>
+
