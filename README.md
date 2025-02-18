@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kavindu Dinujaya</h1>
-<h3 align="center">A passionate MERN Stack Developer from Sri Lanka 🇱🇰</h3>
+<h3 align="center">A passionate Full Stack Developer from Sri Lanka 🇱🇰</h3>
 
 <p align="center">
   <a href="https://github.com/Dinujaya69">
@@ -18,7 +18,7 @@
 
 ### 🚀 About Me
 
-I'm a **MERN Stack Developer** with expertise in building modern web and mobile applications. I specialize in **React, Next.js, Node.js, MongoDB, and Tauri**. I’m passionate about creating seamless user experiences and solving complex problems through code. I’m also exploring **React Native** for cross-platform mobile development.
+I'm a **Full Stack Developer** with expertise in building modern web and mobile applications. I specialize in **React, Next.js, Node.js, MongoDB, and Tauri**. I’m passionate about creating seamless user experiences and solving complex problems through code. I’m also exploring **React Native** for cross-platform mobile development.
 
 ---
 
