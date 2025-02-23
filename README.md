@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kavindu Dinujaya</h1>
+<h1 align="center">Hi 👋, I'm Kavindu Weerasinghe</h1>
 <h3 align="center">A passionate Full Stack Developer from Sri Lanka 🇱🇰</h3>
 
 <p align="center">
